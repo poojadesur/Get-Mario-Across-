@@ -1,0 +1,23 @@
+Welcome to Mario and Yoshi! (scam baby version)
+
+---------------------------------------------HOW TO PLAY------------------------------------------------
+
+This is a two player game, one player always starts at the top, and the second player starts at the bottom. 
+The top right corner of the screen shows whose turn it is.
+
+Player1 plays with arrow keys: up, down, right, left
+Player2 plays with keys: w, s, d, a (respectively)
+
+There are three levels in each game (and so three rounds), with progressively faster speed of the moving obstacles.
+(Level 1 has the slowest speed, Level 2 has faster moving obstacles and so on.)
+
+Crossing a fixed obstacle wins you 5 points, and crossing moving obstacles wins you 10 points.
+
+A player wins a round if they have a higher score in that round. If the scores were equal, whoever took lesser time wins the round.
+
+If a player wins two out of three rounds, they win the game. 
+
+The whole game restarts when a player has won the game, and the moving obstacles then reset to the lowest speed.
+
+
+
